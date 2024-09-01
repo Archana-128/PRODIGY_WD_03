@@ -37,4 +37,4 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using HT
 - **script.js**: Includes the JavaScript code to manage the game logic.
 
 ## Deployment
-link : 
+link :  https://archana-128.github.io/PRODIGY_WD_03/
